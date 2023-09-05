@@ -7,6 +7,14 @@ public class homework {
 		int y = 6;
 		System.out.println(x + y);
 		
+		int i = 1;
+		for(; i <= 5; i++) {
+		
+		System.out.println("welcome to JAVA");
+		
+		
+		
 		}
 
+}
 }
