@@ -11,10 +11,13 @@ public class homework {
 		for(; i <= 5; i++) {
 		
 		System.out.println("welcome to JAVA");
-		
-		
+		}
+		int z = 60;
+		if(z > 50) {
+			System.out.println("you look good");
+			
+		}
 		
 		}
 
-}
 }
